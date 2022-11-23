@@ -16,6 +16,8 @@ API so that the `fetch` requests on the frontend work successfully.
 
 ## Instructions
 
+Access
+
 The React application is in the `client` directory. To set it up, from the root
 directory, run:
 
